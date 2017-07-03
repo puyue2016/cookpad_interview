@@ -1,0 +1,75 @@
+name: PU YUE
+resume:
+  backgrounds:
+    - name: 筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻 M2年生
+      lab: ビジュアルサイエンス研究室所属
+      thesis_theme: 共感における機械学習を利用した、ネット売店の色推薦システム
+      year: 2018年3月卒業見込み
+    - name: 南京工業大学大学 浦江学部 情報管理と情報システム学科
+      thesis_theme: 移動支払いの技術研究
+      year: 2014年6月卒業
+    - name: 南京航空航天大学付属高校
+      year: 2010年6月卒業
+social_accounts:
+  github: puyue2016
+engineering:
+  why_start_programming: |
+    1年かけて、子供向け防犯システムをチーム開発しました。そのシステムはハードとソフト二つ部分あります。
+  interesting_points: |
+    自分が使いたい、さらに一般な人も使いたい、システムまたはサービスを開発したい。
+  skill_levels:
+    elements:
+      - element: C++
+        level: 2
+        years: 1
+        explanation: |
+          授業で習った。
+      - element: C言語
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った、大学院入学試験を受験したことがあります。
+      - element: android
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った、実際に開発したあります。
+      - element: Java
+        level: 2
+        years: 1
+        explanation: |
+          授業で習った、実際に開発したあります。
+      - element: HTML
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはHTMLで書いています。
+      - element: CSS
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはCSSで書いています。
+      - element: javascript
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはjavascriptで書いています。
+          
+    favorite_language: |
+      JAVAが一番経験が長いので得意です
+    pr: |
+      目標を決めったら、必ず完成する人間です。
+parttime_experiences:
+  - company:
+    detail: |
+
+internship_experiences:
+  - company:
+    detail: |
+
+what_you_want_to_achieve_in_cookpad: |
+  年上の料理人のために、もっと簡単に自分の技術を記録できるシステムを作りたい。
+enthusiasm_for_engineering: |
+  他の人は自分作ったものを使う瞬間、自分の作ったもの他の人に紹介する瞬間、その達成感、とても幸せ感じになる。
+other_appeal_points: |
+  おいしい料理の勉強をすきです。撮影が好き、写真パレットとビデオクリップ周りも出来ます。UI/UXの研究も行っていたのでフロント周りも出来ます。
